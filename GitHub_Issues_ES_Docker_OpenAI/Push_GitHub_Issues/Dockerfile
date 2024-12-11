@@ -1,0 +1,1 @@
+FROM ssonar2/elasticsearch_vector:latest

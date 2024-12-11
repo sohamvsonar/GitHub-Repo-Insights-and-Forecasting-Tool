@@ -1,0 +1,7 @@
+repository,stars,forks,total_issues,total_commits,total_pull_requests,total_releases,total_contributors,total_branches
+langchain,95153,15427,23697,11839,15963,699,481,843
+langgraph,6769,1094,1899,3068,1583,146,88,81
+autogen,34609,5002,3935,2241,1978,61,372,110
+openai-cookbook,59891,9554,1364,897,921,0,250,43
+elasticsearch,1295,24868,31231,14666,79817,160,348,422
+pymilvus,1031,329,1218,413,1477,62,101,14
