@@ -33,6 +33,36 @@ This project provides an end-to-end solution for analyzing and forecasting trend
 - GitHub personal access token (required for API authentication)
 - Python libraries: `pandas`, `matplotlib`, `seaborn`, `statsmodels`, `prophet`, `requests`, `tensorflow`, `scikit-learn`
 
+### Part 1: File - GitHub_Repos_Issues_Forecasting.ipynb
+- Ensure that all required libraries are installed before executing this notebook.
+- Plots and forecast results are included within the Jupyter notebook.
+
+1. Backend - Flask
+To run the backend, navigate to the Flask directory and execute the following command in a separate terminal:
+
+```bash
+python App.py
+```
+
+2. Frontend - React
+
+Install the necessary node_modules packages by executing:
+```bash
+npm install
+```
+
+Start the frontend server locally by running:
+```bash
+npm start
+```
+(This should be executed in a separate terminal)
+
+Part 2: File - Analytics.ipynb
+Updates in the Directory - 'GitHub_Issues_ES_Docker_OpenAI'
+
+Uploaded these changes to Elasticsearch using Docker.
+Subsequently, the notebook Analytics.ipynb retrieves the Top 5 most similar issues from Elasticsearch.
+
 ### Steps
 1. Clone the repository:
    ```bash
