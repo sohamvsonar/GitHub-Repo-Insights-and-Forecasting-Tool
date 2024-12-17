@@ -95,7 +95,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
 ## Acknowledgments
 - [GitHub API Documentation](https://docs.github.com/en/rest)
-- Python libraries: `matplotlib`, `pandas`, `statsmodels`, `prophet`
+- Python libraries: `matplotlib`, `pandas`, `statsmodels`, `prophet`, `LSTM`
 
 ---
 
