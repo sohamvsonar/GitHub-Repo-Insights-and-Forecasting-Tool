@@ -57,6 +57,8 @@ npm start
 ```
 (This should be executed in a separate terminal)
 
+This would start a web server with all the forecasting results.
+
 Part 2: File - Analytics.ipynb
 Updates in the Directory - 'GitHub_Issues_ES_Docker_OpenAI'
 
