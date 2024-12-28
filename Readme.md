@@ -8,6 +8,7 @@ This project provides an end-to-end solution for analyzing and forecasting trend
 - Visualize trends using time series plots and interactive dashboards.  
 - Apply machine learning models (e.g., ARIMA, LSTM) to forecast future repository activity.  
 - Generate actionable insights to help maintainers and contributors manage repositories effectively.
+- In the Analytics file I have used OpenAI's text-embedding-ada-002 model to generate embeddings for the search queries and the semantic search is performed using Elasticsearch.
 
 ### Key Features
 - **Data Retrieval**: Uses the GitHub API to retrieve issues data for the past two months and two years (for different analyses).
